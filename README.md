@@ -1,11 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="[https://github.com/USERNAME_ANDA_DISINI](https://github.com/suanggiLaut/)" target="_blank">suanggiLaut</a> 👋</h1>
+<h1 align="center">Hi there, I'm suanggiLaut 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/images/8e32da0022364476882c004904063588/tenor.gif" height="220" alt="Gorilla Coding fast">
+  <img src="https://media.tenor.com/Jan2kHwTf4kAAAAC/monkey-developer.gif" height="250" alt="Gorilla Coding Furiously">
 </p>
 
 <br>
-
 ---
 
 ### 💫 About Me
