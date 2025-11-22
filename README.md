@@ -1,12 +1,10 @@
-<div align="center">
+<h1 align="center">Hi there, I'm <a href="https://github.com/USERNAME_ANDA_DISINI" target="_blank">Nama Anda</a> 👋</h1>
 
-# Hi there, I'm <a href="https://github.com/USERNAME_ANDA" target="_blank">Nama Anda</a> 👋
+<p align="center">
+  <img src="https://media.tenor.com/images/8e32da0022364476882c004904063588/tenor.gif" height="220" alt="Gorilla Coding fast">
+</p>
 
-<img src="https://media.giphy.com/media/d31vTpVi1kQFF97e/giphy.gif" width="300" alt="Gorilla Coding">
-
-<br/>
-
-</div>
+<br>
 
 ---
 
@@ -20,7 +18,3 @@
 - ⚡ Fun fact: ...
 
 <br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
