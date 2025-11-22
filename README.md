@@ -3,11 +3,6 @@
 <p align="center">
   <img src="./white-gorilla.jpg" height="180" alt="Avatar" style="border-radius: 50%; border: 3px solid #00FF00; box-shadow: 0 0 35px #00FF00, inset 0 0 10px #00FF00;">
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/Zk6TR5k.gif" width="600" alt="Cyber Scanner">
-</p>
-
 <br>
 
 ```bash
