@@ -6,7 +6,7 @@
 <br>
 
 ```bash
-┌──(root💀suanggiLaut)-[~/operations]
+┌──(root💀suanggiLaut)-[~]
 └─$ netstat -ano | grep ESTABLISHED
 
 [+] PROTOCOL ............... TCP / Encrypted
