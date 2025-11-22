@@ -14,7 +14,6 @@
 ┌──(root💀suanggiLaut)-[~]
 └─$ whois suanggiLaut
 
-# Querying Identity Database...
 Name:        SuanggiLaut
 Role:        Red Teamer & Fullstack Developer
 Orbit:       Cyber Security / Web Exploitation
