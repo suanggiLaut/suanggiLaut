@@ -6,7 +6,7 @@
 <br>
 
 ```bash
-┌──(root💀suanggiLaut)-[~]
+┌──(root☠️suanggiLaut)-[~]
 └─$ whois suanggiLaut
 
 Name:        SuanggiLaut
