@@ -9,13 +9,12 @@
 ┌──(root💀suanggiLaut)-[~]
 └─$ whois suanggiLaut
 
-# Querying Identity Database...
 Name:        SuanggiLaut
 Role:        Red Teamer & Fullstack Developer
 Orbit:       Cyber Security / Web Exploitation
 Status:      Online 🟢
 
-┌──(root💀suanggiLaut)-[~/arsenal]
+┌──(root💀suanggiLaut)-[~/suanggi]
 └─$ ls -la
 
 drwxr-x---  root root  4096  .
