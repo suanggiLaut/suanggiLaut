@@ -1,28 +1,24 @@
-<div align="center">
-  <img src="./white-gorilla.jpg" height="140" alt="Avatar" style="border-radius: 50%;">
-  <br>
-  <code>GET /api/v1/users/suanggiLaut</code>
-</div>
+<h1 align="center">root@suanggiLaut:~# ./engage_system</h1>
 
+<p align="center">
+  <img src="./white-gorilla.jpg" height="180" alt="Avatar" style="border-radius: 50%; border: 3px solid #00FF00; box-shadow: 0 0 35px #00FF00, inset 0 0 10px #00FF00;">
+</p>
 <br>
 
-```json
-{
-  "status": 200,
-  "message": "User Found",
-  "data": {
-    "username": "suanggiLaut",
-    "role": "Security Enthusiast",
-    "location": "Internet",
-    "tech_stack": {
-      "frontend": null,
-      "backend": ["PHP", "Python"],
-      "security": ["CTF Player", "Red Teaming", "Vulnerability Assessment"]
-    },
-    "current_activity": "Patching vulnerabilities before bad guys find them.",
-    "contact": {
-      "encrypted": true,
-      "open_for_hiring": true
-    }
-  }
-}
+```bash
+┌──(root💀suanggiLaut)-[~]
+└─$ netstat -ano | grep ESTABLISHED
+
+[+] PROTOCOL ............... TCP / Encrypted
+[+] LOCAL ADDRESS .......... 127.0.0.1:1337
+[+] FOREIGN ADDRESS ........ [TARGET_REDACTED]
+[+] STATE .................. ESTABLISHED 🟢
+
+> CURRENT STATUS:
+  ---------------------------------------------------
+  [⚡] FOCUS ......... Penetration Testing & Red Teaming
+  [👾] CODE .......... PHP / Python / Bash Scripting
+  [🎯] CTF ........... Active Participant
+  ---------------------------------------------------
+
+└─$ _
