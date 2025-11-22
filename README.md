@@ -20,5 +20,6 @@
   [👾] CODE .......... PHP / Python / Bash Scripting
   [🎯] CTF ........... Active Participant
   ---------------------------------------------------
-
+  
+┌──(root💀suanggiLaut)-[~]
 └─$ _
