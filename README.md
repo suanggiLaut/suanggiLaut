@@ -1,34 +1,28 @@
 <div align="center">
-  <img src="./white-gorilla.jpg" height="150" alt="Avatar" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <h3>👨‍💻 SuanggiLaut.php</h3>
+  <img src="./white-gorilla.jpg" height="140" alt="Avatar" style="border-radius: 50%;">
+  <br>
+  <code>GET /api/v1/users/suanggiLaut</code>
 </div>
 
 <br>
 
-```php
-<?php
-
-namespace CyberSecurity;
-
-class SuanggiLaut extends PenetrationTester {
-
-    const STATUS = 'Hunting Bugs';
-    
-    public $skills = [
-        'Language' => ['PHP', 'Python', 'Bash'],
-        'Tools'    => ['Burp Suite', 'Metasploit', 'Wireshark'],
-        'Focus'    => 'Web Application Security'
-    ];
-
-    public function __construct() {
-        $this->learn("Exploitation");
-        $this->collaborate("Open");
+```json
+{
+  "status": 200,
+  "message": "User Found",
+  "data": {
+    "username": "suanggiLaut",
+    "role": "Security Enthusiast",
+    "location": "Internet",
+    "tech_stack": {
+      "frontend": null,
+      "backend": ["PHP", "Python"],
+      "security": ["CTF Player", "Red Teaming", "Vulnerability Assessment"]
+    },
+    "current_activity": "Patching vulnerabilities before bad guys find them.",
+    "contact": {
+      "encrypted": true,
+      "open_for_hiring": true
     }
-
-    public function getGoal() {
-        return "Securing the digital ocean.";
-    }
+  }
 }
-
-// Output: Ready to collaborate
-?>
