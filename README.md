@@ -36,5 +36,3 @@ root      1337  80.0  0.5  ./penetration_testing --target=all
 root      1338  15.0  0.2  ./fullstack_dev --stack=lamp
 root      1339   5.0  0.1  ./ctf_player --mode=aggressive
 
-┌──(root@suanggiLaut)-[~]
-└─$ _
