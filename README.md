@@ -16,7 +16,7 @@
 
 Name:        SuanggiLaut
 Role:        Red Teamer & fullstack developer
-Orbit:       Cyber Security / Web Exploitation / Pwn / Osint / cryptography
+Orbit:       vulnerability assessment / Web Exploitation / Pwn / Osint / cryptography / threat intelligence
 Status:      Online 🟢
 
 ┌──(root@suanggiLaut)-[~/suanggi]
