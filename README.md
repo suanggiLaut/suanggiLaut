@@ -15,8 +15,8 @@
 └─$ whois suanggiLaut
 
 Name:        SuanggiLaut
-Role:        Red Teamer & Fullstack Developer
-Orbit:       Cyber Security / Web Exploitation
+Role:        Red Teamer & fullstack developer
+Orbit:       Cyber Security / Web Exploitation / Pwn / Osint / cryptography
 Status:      Online 🟢
 
 ┌──(root@suanggiLaut)-[~/suanggi]
