@@ -96,7 +96,7 @@ root      1339   5.0  0.1  32768  10240  ./ctf_player --mode=aggressive --rank=u
 └─$ cat weapons.list
 
 [OFFENSIVE]
-├── Burp Suite Pro      → Web app pentesting & API security
+├── Burp Suite          → Web app pentesting & API security
 ├── Nmap / Masscan      → Network recon & port scanning
 ├── Metasploit          → Exploitation framework
 ├── SQLMap              → SQL injection automation
